@@ -1,5 +1,5 @@
 %syntax-version=1.0.0
-%project=revised_route_lines
-%uri=https://github.com/jmarca/revised_route_lines
+%project=tempseg_schema
+%uri=https://github.com/jmarca/tempseg_schema
 
 tempseg_schema 2016-04-14T23:38:28Z James E. Marca <james@activimetrics.com> # schema for temp segment work
