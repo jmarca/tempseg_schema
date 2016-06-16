@@ -1,0 +1,22 @@
+{
+  "name": "tempseg_schema",
+  "version": "1.0.0",
+  "description": "tempseg schema, via sqitch",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "pgtap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmarca/tempseg_schema.git"
+  },
+  "author": "James E. Marca",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/jmarca/tempseg_schema/issues"
+  },
+  "homepage": "https://github.com/jmarca/tempseg_schema#readme"
+}
